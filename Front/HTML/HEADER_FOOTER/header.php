@@ -29,7 +29,9 @@ if (isset($_POST['submit_deco'])) {
             <li class="nav-item">
                 <a href="./index.php" class="nav-link">Accueil</a>
             </li>
-
+    <li class="nav-item">
+                    <a href="./livreor.php" class="nav-link">Livre d'or</a>
+                </li>
             <?php
             if (isset($_SESSION['droits'])) {
                 // user classique 
@@ -59,7 +61,7 @@ if (isset($_POST['submit_deco'])) {
                 <?php }
             } else { ?>
                 <!-- Non connecté  -->
-
+            
                 <li class="nav-item">
                     <a href="./connexion.php" class="nav-link">Connexion</a>
                 </li>

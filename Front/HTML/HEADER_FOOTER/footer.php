@@ -17,7 +17,7 @@
                 <li>
                     <h2>Github :</h2>
                 </li>
-                <li><a href="https://github.com/laura-rodriguez2/module-connexion">
+                <li><a href="https://github.com/laura-rodriguez2/livre-or">
                     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50px">
                 </a>
                 </li>
@@ -26,7 +26,7 @@
     </section>
 
     <section id="footer_secondaire">
-        <p>Module Connexion - 2022 </p>
+        <p>Livre d'Or - 2022 </p>
     </section>
 </footer>
 

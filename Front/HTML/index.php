@@ -24,13 +24,15 @@ session_start();
     </header>
 
     <main>
+        <h1>Bienvenue,</h1>
+        <p>N'hésitez pas à laisser un commentaire</p>
         <div class="div">
-            <a href="connexion.php" class="btn">
-                Connexion
+            <a href="livreor.php" class="btn">
+                Ici !
             </a>
-            <a href="inscription.php" class="btn">
+            <!-- <a href="inscription.php" class="btn">
                 Inscription
-            </a>
+            </a> -->
         </div>
 
     </main>
